@@ -28,6 +28,6 @@ substitutions:
     _FUNCTION_PROJECT : staging
     _FUNCTION_NAME    : my-nodejs-app
     _FUNCTION_REGION  : europe-west3
-    _FUNCTION_RUNTIME : nodejs14
-    _ENTRY_POINT      : helloHttp
+    _FUNCTION_RUNTIME : nodejs16
+    _ENTRY_POINT      : helloWorld
 
